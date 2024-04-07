@@ -6,7 +6,6 @@ DB_DETAILS = {
             'DB_NAME': 'mydatabase',
             'DB_USER': 'retail_db',
             'DB_PASSWORD': 'itversity'
-
         },
         'TARGET_DB': {
             'DB_TYPE': 'postgres',
@@ -14,7 +13,6 @@ DB_DETAILS = {
             'DB_NAME': 'mydatabase',
             'DB_USER': 'retail_db',
             'DB_PASSWORD': 'itversity'
+        }
     }
-
-}
 }
